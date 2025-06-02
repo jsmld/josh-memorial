@@ -4,9 +4,9 @@ import "./App.css";
 function App() {
   return (
     <>
+      <img src={joshPhoto} className='josh' alt="Josh" />
       <div>In celebration of the life of...</div>
       <h1>Josh van Erpers Roijaards</h1>
-      <img src={joshPhoto} className='josh' alt="Josh" />
       <div className="card">
         <h2>Links:</h2>
         <ul>
