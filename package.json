@@ -1,6 +1,6 @@
 {
   "name": "josh-memorial",
-  "description": "A template for building a React application with Vite, Hono, and Cloudflare Workers",
+  "description": "A simple memorial website for my brother",
   "version": "0.0.0",
   "cloudflare": {
     "label": "Vite React Template",
